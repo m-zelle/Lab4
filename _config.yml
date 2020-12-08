@@ -28,7 +28,7 @@ description: I made this repository for Intro To Bioinformatics! :-)
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Lab 4 Code: 
+  Lab 4 Code: "https://m-zelle.github.io/Lab4/pythoncode/"
   Resources:
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   Course Info: "http://bulletin.gwu.edu/public-health/biostatistics-bioinformatics/minor-bioinformatics/"
