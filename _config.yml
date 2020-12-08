@@ -8,7 +8,7 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://kerchner.github.io/beautiful-project"
+url: "http://m-zelle.github.io/Lab4"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -29,13 +29,8 @@ description: I made this repository for Intro To Bioinformatics! :-)
 navbar-links:
   Home: ""
   Resources:
-    - Getting started: "getstarted"
-    - Other sites that use this template: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Example pages:
-    - Example of a Markdown page: "md-example"
-    - Example of an HTML page: "html-example"
-  About me: "https://www.linkedin.com/school/george-washington-university/about/"
+  Course Info: "http://bulletin.gwu.edu/public-health/biostatistics-bioinformatics/minor-bioinformatics/"
 
 # --- Footer options --- #
 
