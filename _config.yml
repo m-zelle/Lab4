@@ -105,5 +105,6 @@ exclude:
   - CNAME
   - LICENSE
   - README.md
+  - _posts
 
 theme: jekyll-theme-hacker
